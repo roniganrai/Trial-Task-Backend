@@ -206,7 +206,7 @@ Response:
 
 - Host backend on Render
 
-- For frontend integration, base URL → https://your-backend-domain.com/api
+- For frontend integration, base URL → https://trial-task-backend.onrender.com/api
 
 ### Future Enhancements (if Require from your side)
 
